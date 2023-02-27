@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-"""this object return the attribute in lkst"""
+"""Defines an object attribute lookup function."""
+
+
 def lookup(obj):
-    """obj: return the list of attribut of an objrct"""
-    return(dir(obj))
+    """Return a list of an object's available attributes."""
+    return (dir(obj))
