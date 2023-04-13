@@ -5,4 +5,3 @@ const line3 = 'Python is cool';
 console.log(line1);
 console.log(line3);
 console.log(line2);
-
